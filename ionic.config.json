@@ -1,0 +1,7 @@
+{
+  "name": "varcel-deployement",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
